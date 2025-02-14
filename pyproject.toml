@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "inspect-ai>=0.3.64",
     "numpy>=2.2.3",
     "openai>=1.63.0",
 ]

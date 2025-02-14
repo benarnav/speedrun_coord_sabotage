@@ -11,3 +11,4 @@ wheels/
 
 # var
 envar.py
+.env
